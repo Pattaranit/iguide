@@ -1,0 +1,23 @@
+{
+  "id": "a0f0e839-e7b2-475b-86af-2dc9e484c1a1",
+  "name": "gender",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "หญิง",
+      "synonyms": [
+        "หญิง",
+        "ญ"
+      ]
+    },
+    {
+      "value": "ชาย",
+      "synonyms": [
+        "ชาย",
+        "ช"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

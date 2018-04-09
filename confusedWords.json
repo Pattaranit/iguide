@@ -1,0 +1,20 @@
+{
+  "id": "a792b8ce-f316-4214-823d-85758163d4e2",
+  "name": "confusedWords",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "หอ",
+      "synonyms": [
+        "หอ",
+        "หอใน",
+        "หอพัก",
+        "หอพักนักศึกษา",
+        "หอพักนศ",
+        "หอนศ"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

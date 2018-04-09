@@ -1,0 +1,22 @@
+{
+  "id": "08b32664-427b-4d67-bc18-177081f69cae",
+  "name": "TypeScholarship",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "ก่อนเข้า",
+      "synonyms": [
+        "ก่อนเข้า"
+      ]
+    },
+    {
+      "value": "ปัจจุบัน",
+      "synonyms": [
+        "ปัจจุบัน",
+        "สำหรับนศ.ปัจจุบัน"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

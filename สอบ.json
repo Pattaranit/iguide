@@ -1,0 +1,20 @@
+{
+  "id": "b2dd149b-53c4-47a5-987a-844ad944a454",
+  "name": "test",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "มาไม่ได้",
+      "synonyms": [
+        "ไม่สบาย",
+        "ไม่สามารถมาสอบได้",
+        "มาสอบไม่ได้",
+        "ไม่สามารถไปสอบได้",
+        "ไปสอบไม่ได้",
+        "มาไม่ได้"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

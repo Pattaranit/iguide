@@ -1,0 +1,16 @@
+{
+  "id": "762ef405-8a97-402f-943e-f05f4abc3fcc",
+  "name": "placeBorrowBook",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "*หอสมุด",
+      "synonyms": [
+        "หอสมุด",
+        "ห้องสมุด"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
